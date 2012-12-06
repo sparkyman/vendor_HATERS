@@ -1,5 +1,3 @@
-add_lunch_combo Project_HATRED_toro-user
 add_lunch_combo Project_HATRED_toro-userdebug
-add_lunch_combo Project_HATRED_maguro-user
 add_lunch_combo Project_HATRED_maguro-userdebug
 
